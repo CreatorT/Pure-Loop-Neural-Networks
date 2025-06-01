@@ -1,5 +1,5 @@
 # Pure‑Loop Neural Networks  🧠
-
+### Most Simple Neural Network
 > **Tiny educational repo** showing how a two‑layer neural network can be trained **without any NumPy vectorisation**. Every multiply–add is hand‑written with `for`‑loops so you can follow the maths step‑by‑step.
 > Two training variants are provided:
 >
