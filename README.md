@@ -14,9 +14,8 @@
 .
 ├── loop_based_neural_network.py      # SGD trainer (loops only)
 ├── loop_based_neural_network_adam.py # Adam trainer (loops only)
-├── README.md                         # what you’re reading now
-├── requirements.txt                  # minimal runtime deps
-└── .gitignore                        # ignore plots & pickle models
+├── README.md                         
+├── requirements.txt                                 
 ```
 
 ### requirements.txt
@@ -25,19 +24,6 @@
 numpy>=1.25
 matplotlib>=3.8
 ```
-
-### .gitignore
-
-```
-# Generated output
-__pycache__/
-*.pkl
-*.png
-```
-
-(You can add any IDE‑specific rules you like.)
-
----
 
 ## Quick start
 
